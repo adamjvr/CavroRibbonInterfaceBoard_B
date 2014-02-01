@@ -1,0 +1,166 @@
+Added Component: Designator=1(HDR1X3)
+Added Component: Designator=12v Input(con-phoenix-508)
+Added Component: Designator=AUX-1(HDR2X4)
+Added Component: Designator=AUX-2(HDR2X5)
+Added Component: Designator=C1(Panasonic VS B)
+Added Component: Designator=C2(Panasonic VS B)
+Added Component: Designator=C3(Panasonic VS C)
+Added Component: Designator=C4(Panasonic VS D)
+Added Component: Designator=C5(Panasonic VS D)
+Added Component: Designator=C6(C1206)
+Added Component: Designator=C7(C1206)
+Added Component: Designator=D1(SM 0805 polarized)
+Added Component: Designator=D2(B240A-13-F)
+Added Component: Designator=D3(SK310A-TP)
+Added Component: Designator=F1(TinyFuseATO_Carrier)
+Added Component: Designator=FB1(SM 0805 - gap trimmed)
+Added Component: Designator=FB2(SM 0805 - gap trimmed)
+Added Component: Designator=FB3(SM 0805 - gap trimmed)
+Added Component: Designator=FB4(SM 0805 - gap trimmed)
+Added Component: Designator=FB5(SM 0805 - gap trimmed)
+Added Component: Designator=FB6(SM 0805 - gap trimmed)
+Added Component: Designator=HEATBED_10A(con-phoenix-508)
+Added Component: Designator=HEATBED_Test1(HDR1X2)
+Added Component: Designator=MOTOR1(HDR1X4)
+Added Component: Designator=Q1(PSMN7R0-60YS)
+Added Component: Designator=R1(SM 0805 - gap trimmed)
+Added Component: Designator=R2(SM 0805 - gap trimmed)
+Added Component: Designator=R3(SM 0805 - gap trimmed)
+Added Component: Designator=R4(J1-0603)
+Added Component: Designator=R5(J1-0603)
+Added Component: Designator=R6(J1-0603)
+Added Component: Designator=RIBBON1(HDR1X16H)
+Added Component: Designator=Status_LED1(HDR1X4)
+Added Pin To Net: NetName=+12VCC Pin=C1-1
+Added Pin To Net: NetName=+12VCC Pin=C2-1
+Added Pin To Net: NetName=+12VCC Pin=C3-1
+Added Pin To Net: NetName=+12VCC Pin=C4-1
+Added Pin To Net: NetName=+12VCC Pin=C5-1
+Added Pin To Net: NetName=+12VCC Pin=C6-2
+Added Pin To Net: NetName=+12VCC Pin=C7-2
+Added Pin To Net: NetName=+12VCC Pin=D2-2
+Added Pin To Net: NetName=+12VCC Pin=D3-2
+Added Pin To Net: NetName=+12VCC Pin=F1-1
+Added Pin To Net: NetName=+12VCC Pin=HEATBED_10A-1
+Added Pin To Net: NetName=+12VCC Pin=HEATBED_Test1-1
+Added Pin To Net: NetName=+12VCC Pin=R4-2
+Added Pin To Net: NetName=+12VCC Pin=RIBBON1-16
+Added Net: Name=+12VCC
+Added Pin To Net: NetName=3 Pin=Q1-1
+Added Pin To Net: NetName=3 Pin=Q1-2
+Added Net: Name=3
+Added Pin To Net: NetName=A+ Pin=MOTOR1-1
+Added Pin To Net: NetName=A+ Pin=RIBBON1-1
+Added Net: Name=A+
+Added Pin To Net: NetName=A- Pin=MOTOR1-4
+Added Pin To Net: NetName=A- Pin=RIBBON1-4
+Added Net: Name=A-
+Added Pin To Net: NetName=B+ Pin=MOTOR1-2
+Added Pin To Net: NetName=B+ Pin=RIBBON1-2
+Added Net: Name=B+
+Added Pin To Net: NetName=B- Pin=MOTOR1-3
+Added Pin To Net: NetName=B- Pin=RIBBON1-3
+Added Net: Name=B-
+Added Pin To Net: NetName=CS_T2 Pin=AUX-1-2
+Added Pin To Net: NetName=CS_T2 Pin=RIBBON1-9
+Added Net: Name=CS_T2
+Added Pin To Net: NetName=CS_T3 Pin=AUX-2-3
+Added Pin To Net: NetName=CS_T3 Pin=RIBBON1-10
+Added Net: Name=CS_T3
+Added Pin To Net: NetName=CS_T4 Pin=AUX-2-1
+Added Pin To Net: NetName=CS_T4 Pin=RIBBON1-11
+Added Net: Name=CS_T4
+Added Pin To Net: NetName=ES1 Pin=AUX-2-7
+Added Pin To Net: NetName=ES1 Pin=RIBBON1-12
+Added Net: Name=ES1
+Added Pin To Net: NetName=ES2 Pin=AUX-2-5
+Added Pin To Net: NetName=ES2 Pin=RIBBON1-13
+Added Net: Name=ES2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=GND Pin=FB1-2
+Added Pin To Net: NetName=GND Pin=FB2-1
+Added Pin To Net: NetName=GND Pin=FB3-2
+Added Pin To Net: NetName=GND Pin=FB4-1
+Added Pin To Net: NetName=GND Pin=FB5-2
+Added Pin To Net: NetName=GND Pin=FB6-1
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=Status_LED1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=MOSI Pin=AUX-1-4
+Added Pin To Net: NetName=MOSI Pin=RIBBON1-8
+Added Net: Name=MOSI
+Added Pin To Net: NetName=Net1_1 Pin=1-1
+Added Pin To Net: NetName=Net1_1 Pin=FB5-1
+Added Net: Name=Net1_1
+Added Pin To Net: NetName=Net1_3 Pin=1-3
+Added Pin To Net: NetName=Net1_3 Pin=R5-1
+Added Pin To Net: NetName=Net1_3 Pin=R6-1
+Added Net: Name=Net1_3
+Added Pin To Net: NetName=Net12v Input_1 Pin=12v Input-1
+Added Pin To Net: NetName=Net12v Input_1 Pin=F1-2
+Added Net: Name=Net12v Input_1
+Added Pin To Net: NetName=Net12v Input_2 Pin=12v Input-2
+Added Pin To Net: NetName=Net12v Input_2 Pin=FB6-2
+Added Net: Name=Net12v Input_2
+Added Pin To Net: NetName=NetAUX-1_7 Pin=AUX-1-7
+Added Pin To Net: NetName=NetAUX-1_7 Pin=FB2-2
+Added Net: Name=NetAUX-1_7
+Added Pin To Net: NetName=NetAUX-2_8 Pin=AUX-2-8
+Added Net: Name=NetAUX-2_8
+Added Pin To Net: NetName=NetAUX-2_9 Pin=AUX-2-9
+Added Pin To Net: NetName=NetAUX-2_9 Pin=FB4-2
+Added Net: Name=NetAUX-2_9
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R4-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-1
+Added Pin To Net: NetName=NetD1_2 Pin=HEATBED_10A-2
+Added Pin To Net: NetName=NetD1_2 Pin=HEATBED_Test1-2
+Added Pin To Net: NetName=NetD1_2 Pin=Q1-5
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NetFB1_1 Pin=FB1-1
+Added Pin To Net: NetName=NetFB1_1 Pin=RIBBON1-14
+Added Pin To Net: NetName=NetFB1_1 Pin=RIBBON1-15
+Added Net: Name=NetFB1_1
+Added Pin To Net: NetName=NetFB3_1 Pin=FB3-1
+Added Pin To Net: NetName=NetFB3_1 Pin=RIBBON1-5
+Added Net: Name=NetFB3_1
+Added Pin To Net: NetName=NETLABEL14 Pin=AUX-1-6
+Added Pin To Net: NetName=NETLABEL14 Pin=RIBBON1-7
+Added Net: Name=NETLABEL14
+Added Pin To Net: NetName=NETLABEL15 Pin=AUX-1-5
+Added Pin To Net: NetName=NETLABEL15 Pin=RIBBON1-6
+Added Net: Name=NETLABEL15
+Added Pin To Net: NetName=NetQ1_4 Pin=Q1-4
+Added Pin To Net: NetName=NetQ1_4 Pin=R5-2
+Added Net: Name=NetQ1_4
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=Status_LED1-1
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=Status_LED1-2
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=Status_LED1-3
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=PGND Pin=C1-2
+Added Pin To Net: NetName=PGND Pin=C2-2
+Added Net: Name=PGND
+Added Pin To Net: NetName=STATUS_BLUE Pin=AUX-2-4
+Added Pin To Net: NetName=STATUS_BLUE Pin=R2-1
+Added Net: Name=STATUS_BLUE
+Added Pin To Net: NetName=STATUS_GREEN Pin=AUX-2-6
+Added Pin To Net: NetName=STATUS_GREEN Pin=R3-1
+Added Net: Name=STATUS_GREEN
+Added Pin To Net: NetName=STATUS_RED Pin=AUX-2-2
+Added Pin To Net: NetName=STATUS_RED Pin=R1-1
+Added Net: Name=STATUS_RED
+Added Class: Name=Ribbon Breakout
+Added Room: Name=Ribbon Breakout

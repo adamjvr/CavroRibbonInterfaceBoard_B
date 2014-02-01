@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=CS_T4 Pin=AUX-2-1
+Removed Pin From Net: NetName=CS_T3 Pin=AUX-2-3
+Removed Pin From Net: NetName=ES2 Pin=AUX-2-5
+Removed Pin From Net: NetName=ES1 Pin=AUX-2-7
+Added Pin To Net: NetName=CS_T3 Pin=AUX-2-1
+Added Pin To Net: NetName=CS_T4 Pin=AUX-2-3
+Added Pin To Net: NetName=ES1 Pin=AUX-2-5
+Added Pin To Net: NetName=ES2 Pin=AUX-2-7

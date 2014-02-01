@@ -1,0 +1,8 @@
+Added Component: Designator=HEATBED_1(con-phoenix-508)
+Added Component: Designator=T1(con-phoenix-508)
+Added Pin To Net: NetName=+12VCC Pin=HEATBED_1-1
+Added Pin To Net: NetName=NetD1_2 Pin=HEATBED_1-2
+Added Pin To Net: NetName=NetF1_2 Pin=T1-1
+Added Pin To Net: NetName=NetFB6_2 Pin=T1-2
+Added Member To Class: ClassName=Ribbon Breakout Member=Component HEATBED_1 Pheonix Contact
+Added Member To Class: ClassName=Ribbon Breakout Member=Component T1 Pheonix Contact

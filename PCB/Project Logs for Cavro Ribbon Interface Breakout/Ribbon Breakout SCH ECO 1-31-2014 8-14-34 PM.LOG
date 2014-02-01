@@ -1,0 +1,19 @@
+Change Component Designator: Old Designator=400W HEAT BED New Designator=1
+Change Component Designator: Old Designator=AUX-3 / SPI New Designator=AUX-1
+Change Component Designator: Old Designator=C1 New Designator=C3
+Change Component Designator: Old Designator=C2 New Designator=C4
+Change Component Designator: Old Designator=C3 New Designator=C5
+Change Component Designator: Old Designator=C4 New Designator=C6
+Change Component Designator: Old Designator=C5 New Designator=C7
+Change Component Designator: Old Designator=C14 New Designator=C1
+Change Component Designator: Old Designator=C15 New Designator=C2
+Change Component Designator: Old Designator=FB3 New Designator=FB2
+Change Component Designator: Old Designator=FB3 New Designator=FB4
+Change Component Designator: Old Designator=FB3 New Designator=FB5
+Change Component Designator: Old Designator=FB3 New Designator=FB6
+Change Component Designator: Old Designator=FB4 New Designator=FB1
+Change Component Designator: Old Designator=HEATBED_10A New Designator=HEATBED_1
+Change Component Designator: Old Designator=HEATBED_Test New Designator=HEATBED_Test1
+Change Component Designator: Old Designator=MOTOR New Designator=MOTOR1
+Change Component Designator: Old Designator=RIBBON New Designator=RIBBON1
+Change Component Designator: Old Designator=Status_LED New Designator=Status_LED1
