@@ -1,26 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [Cavro Ribbon Interface Breakout.PrjPCB]
-   Generated File[Cavro Ribbon Breakout.GTL]
-   Generated File[Cavro Ribbon Breakout.GBL]
-   Generated File[Cavro Ribbon Breakout.GPB]
-   Generated File[Cavro Ribbon Breakout.GPT]
-   Generated File[Cavro Ribbon Breakout.GTO]
-   Generated File[Cavro Ribbon Breakout.GTP]
-   Generated File[Cavro Ribbon Breakout.GTS]
-   Generated File[Cavro Ribbon Breakout.GBS]
-   Generated File[Cavro Ribbon Breakout.GBP]
-   Generated File[Cavro Ribbon Breakout.GBO]
-   Generated File[Cavro Ribbon Breakout.GM1]
-   Generated File[Cavro Ribbon Breakout.GM13]
-   Generated File[Cavro Ribbon Breakout.GM15]
-   Generated File[Cavro Ribbon Breakout.GKO]
-   Generated File[Cavro Ribbon Breakout.RUL]
-   Generated File[Cavro Ribbon Breakout.EXTREP]
-   Generated File[Cavro Ribbon Breakout.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Cavro Ribbon Interface Breakout.PrjPCB]
+   Generated File[Cavro Ribbon Breakout.TXT]
+   Generated File[Cavro Ribbon Breakout.LDP]
+   Generated File[Cavro Ribbon Breakout.DRR]
 
 
-Files Generated   : 17
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 7:15:46 PM On 2/8/2014
+Finished Output Generation At 8:13:30 PM On 2/8/2014
