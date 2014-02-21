@@ -1,0 +1,23 @@
+Bill of Material for 
+On 2/19/2014 at 1:45:43 PM
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 0603                J1-0603          3    R4, R5, R6                   Resistor             
+ 0805                SM 0805 - gap trimmed    3    R1, R2, R3                   Resistor             
+ 1206                C1206            2    C6, C7                       Capacitor (Semiconductor SIM Model) 
+ B240A-13-F          B240A-13-F       1    D2                           Schottky Diode       
+ Ferrite             SM 0805 - gap trimmed    5    FB1, FB2, FB3, FB4, FB5      Inductor             
+ Header 16H          HDR1X16H         1    RIBBON1                      Header, 16-Pin, Right Angle 
+ Header 3            HDR1X3           1    1                            Header, 3-Pin        
+ Header 4            HDR1X4           2    MOTOR1, Status_LED1          Header, 4-Pin        
+ Header 4X2          HDR2X4           1    AUX-1                        Header, 4-Pin, Dual row 
+ Header 5X2          HDR2X5           1    AUX-2                        Header, 5-Pin, Dual row 
+ LED1                SM 0805 polarized    1    D1                           Typical RED GaAs LED 
+ MiniFuse 153008     TinyFuseATO_Carrier    1    F1                           Fuse                 
+ Pheonix Contact     con-phoenix-508    2    12v Input, HEATBED 10A                            
+ PSMN7R0-60YS        PSMN7R0-60YS     1    Q1                           N-Channel MOSFET     
+ S3A                 S3A-Schottky     1    D3                           Schottky Diode       
+ VAS B               Panasonic VS B    2    C1, C2                       Polarized Capacitor (Radial) 
+ VAS C               Panasonic VS C    1    C3                           Polarized Capacitor (Radial) 
+ VAS D               Panasonic VS D    2    C4, C5                       Polarized Capacitor (Radial) 

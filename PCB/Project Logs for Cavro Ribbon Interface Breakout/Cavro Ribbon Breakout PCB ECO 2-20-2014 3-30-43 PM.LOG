@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C3 Old Footprint=Panasonic VS C New Footprint=Panasonic VS B
+Change Component Footprint: Designator=C4 Old Footprint=Panasonic VS D New Footprint=Panasonic VS C
+Change Component Footprint: Designator=C5 Old Footprint=Panasonic VS D New Footprint=Panasonic VS C
+Change Component Comment : Designator=C4 Old Comment=VAS D New Comment=VS C
+Change Component Comment : Designator=C5 Old Comment=VAS D New Comment=VS C
+Added Room: Name=Ribbon Breakout

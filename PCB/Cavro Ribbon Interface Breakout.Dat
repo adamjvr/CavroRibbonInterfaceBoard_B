@@ -1,20 +1,19 @@
-Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Cavro Ribbon Interface Breakout.PrjPCB|ReportField=ProjectFullPath~C:\Users\Adam\Documents\GitHub\CavroRibbonInterfaceBoard_B\PCB\Cavro Ribbon Interface Breakout.PrjPCB|ReportField=Title~Bill of Materials For Project [Cavro Ribbon Interface Breakout.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~33|ReportField=ReportTime~8:46:23 PM|ReportField=ReportDate~1/31/2014|ReportField=ReportDateTime~1/31/2014 8:46:23 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~1/31/2014|ReportField=CurrentTime~8:46:18 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Adam\Documents\GitHub\CavroRibbonInterfaceBoard_B\PCB\Ribbon Breakout.SchDoc|ReportField=DocumentName~Ribbon Breakout.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~1/31/2014|ReportField=Organization~|ReportField=ProjectName~Cavro Ribbon Interface Breakout.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Cavro Ribbon Interface Breakout.PrjPCB|ReportField=DataSourceFullPath~C:\Users\Adam\Documents\GitHub\CavroRibbonInterfaceBoard_B\PCB\Cavro Ribbon Interface Breakout.PrjPCB
-Header 3|Header, 3-Pin|1|HDR1X3|Header 3|1
-Pheonix Contact||12v Input, HEATBED_10A|con-phoenix-508|Pheonix Contact 2X1|2
-Header 4X2|Header, 4-Pin, Dual row|AUX-1|HDR2X4|Header 4X2|1
-Header 5X2|Header, 5-Pin, Dual row|AUX-2|HDR2X5|Header 5X2|1
-VAS B|Polarized Capacitor (Radial)|C1, C2|Panasonic VS B|Cap Pol1|2
-VAS C|Polarized Capacitor (Radial)|C3|Panasonic VS C|Cap Pol1|1
-VAS D|Polarized Capacitor (Radial)|C4, C5|Panasonic VS D|Cap Pol1|2
-1206|Capacitor (Semiconductor SIM Model)|C6, C7|C1206|Cap Semi|2
-LED1|Typical RED GaAs LED|D1|SM 0805 polarized|LED1|1
-B240A-13-F|Schottky Diode|D2|B240A-13-F|D Schottky|1
-SK310A-TP|Schottky Diode|D3|SK310A-TP|D Schottky|1
-MiniFuse 153008|Fuse|F1|TinyFuseATO_Carrier|Fuse 1|1
-Ferrite|Inductor|FB1, FB2, FB3, FB4, FB5, FB6|SM 0805 - gap trimmed|Inductor|6
-Header 2|Header, 2-Pin|HEATBED_Test1|HDR1X2|Header 2|1
-Header 4|Header, 4-Pin|MOTOR1, Status_LED1|HDR1X4|Header 4|2
-PSMN7R0-60YS|N-Channel MOSFET|Q1|PSMN7R0-60YS|PSMN7R0-60YS|1
-0805|Resistor|R1, R2, R3|SM 0805 - gap trimmed|Res3|3
-0603|Resistor|R4, R5, R6|J1-0603|Res3|3
-Header 16H|Header, 16-Pin, Right Angle|RIBBON1|HDR1X16H|Header 16H|1
+Field=Comment~String~Comment~100|Field=Value~String~Value~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~Cavro Ribbon Interface Breakout.PrjPCB|ReportField=ProjectFullPath~C:\Users\Adam\Documents\GitHub\CavroRibbonInterfaceBoard_B\PCB\Cavro Ribbon Interface Breakout.PrjPCB|ReportField=Title~Bill of Materials For Project [Cavro Ribbon Interface Breakout.PrjPCB] (No PCB Document Selected)|ReportField=TotalQuantity~31|ReportField=ReportTime~2:00:04 PM|ReportField=ReportDate~2/19/2014|ReportField=ReportDateTime~2/19/2014 2:00:04 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2/19/2014|ReportField=CurrentTime~1:55:50 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Adam\Documents\GitHub\CavroRibbonInterfaceBoard_B\PCB\Ribbon Breakout.SchDoc|ReportField=DocumentName~Ribbon Breakout.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~2/19/2014|ReportField=Organization~|ReportField=ProjectName~Cavro Ribbon Interface Breakout.PrjPCB|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~Cavro Ribbon Interface Breakout.PrjPCB|ReportField=DataSourceFullPath~C:\Users\Adam\Documents\GitHub\CavroRibbonInterfaceBoard_B\PCB\Cavro Ribbon Interface Breakout.PrjPCB
+Header 3||Header, 3-Pin|1|HDR1X3|Header 3|1
+Pheonix Contact|||12v Input, HEATBED 10A|con-phoenix-508|Pheonix Contact 2X1|2
+Header 4X2||Header, 4-Pin, Dual row|AUX-1|HDR2X4|Header 4X2|1
+Header 5X2||Header, 5-Pin, Dual row|AUX-2|HDR2X5|Header 5X2|1
+VAS B|47uF|Polarized Capacitor (Radial)|C1, C2|Panasonic VS B|Cap Pol1|2
+VAS C|10uF|Polarized Capacitor (Radial)|C3|Panasonic VS C|Cap Pol1|1
+VAS D|47uF|Polarized Capacitor (Radial)|C4, C5|Panasonic VS D|Cap Pol1|2
+1206|1uF, 10uF|Capacitor (Semiconductor SIM Model)|C6, C7|C1206|Cap Semi|2
+LED1||Typical RED GaAs LED|D1|SM 0805 polarized|LED1|1
+B240A-13-F||Schottky Diode|D2|B240A-13-F|D Schottky|1
+S3A||Schottky Diode|D3|S3A-Schottky|D Schottky|1
+MiniFuse 153008||Fuse|F1|TinyFuseATO_Carrier|Fuse 1|1
+Ferrite||Inductor|FB1, FB2, FB3, FB4, FB5|SM 0805 - gap trimmed|Inductor|5
+Header 4||Header, 4-Pin|MOTOR1, Status_LED1|HDR1X4|Header 4|2
+PSMN7R0-60YS||N-Channel MOSFET|Q1|PSMN7R0-60YS|PSMN7R0-60YS|1
+0805|1K|Resistor|R1, R2, R3|SM 0805 - gap trimmed|Res3|3
+0603|1.8K, 10r, 100K|Resistor|R4, R5, R6|J1-0603|Res3|3
+Header 16H||Header, 16-Pin, Right Angle|RIBBON1|HDR1X16H|Header 16H|1

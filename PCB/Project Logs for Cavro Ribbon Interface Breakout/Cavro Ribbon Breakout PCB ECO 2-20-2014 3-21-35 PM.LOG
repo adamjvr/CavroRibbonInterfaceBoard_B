@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C1 Old Footprint=Panasonic VS B New Footprint=Panasonic VS C
+Change Component Footprint: Designator=C2 Old Footprint=Panasonic VS B New Footprint=Panasonic VS C
+Change Component Comment : Designator=C1 Old Comment=VAS B New Comment=VS C
+Change Component Comment : Designator=C2 Old Comment=VAS B New Comment=VS C
+Change Component Designator: OldDesignator=1 NewDesignator=HEAT_PWM
+Change Net Name : Old Net Name=Net1_1 New Net Name=NetFB5_1
+Change Net Name : Old Net Name=Net1_3 New Net Name=NetHEAT_PWM_3
+Added Room: Name=Ribbon Breakout
